@@ -1,5 +1,4 @@
 # Udagram Image Filter Project
-
 Udagram Rest API has been updated to filter image from the Udagram Image Filter Project 
 
     1. Git Repo : https://github.com/raoularavel/imagefilter-project.git
